@@ -1,0 +1,23 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color:red;
+}
+img{
+  height: 300px;
+  width: 50%;
+}
+li{
+  list-style: none;
+  font-size: 20px;
+  color: white;
+}
+i{
+  color: grey;
+}
+.button{
+  background-color: grey;
+  color: red;
+  border: 3px solid white;
+  border-radius: 50%;
+}
